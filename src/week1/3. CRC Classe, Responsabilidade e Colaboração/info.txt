@@ -1,0 +1,6 @@
+-Identificando Responsabilidades
+-Identificando a Lógica das Responsabilidades
+-Identificando Colaborações
+-Cartão CRC
+-Sobre CRC
+-Mais sobre CRC

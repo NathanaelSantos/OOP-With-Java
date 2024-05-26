@@ -1,0 +1,8 @@
+Identifications of class names
+
+CDRC
+
+Class
+Description
+Responsability
+Colaboration
