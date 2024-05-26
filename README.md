@@ -3,3 +3,7 @@
 
 
 Verify at: [certificate](https://www.coursera.org/account/accomplishments/verify/ZWS83SR3EYR4)
+
+### Offered by Instituto Tecnológico de Aeronáutica
+
+Mais informações sobre o curso: [orientacao-a-objetos-com-java-modules](https://www.coursera.org/learn/orientacao-a-objetos-com-java#modules)
